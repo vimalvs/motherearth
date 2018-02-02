@@ -1,0 +1,10 @@
+{
+    "config": {
+        "vendor-dir": "./composer",
+		    "preferred-install": "dist"
+    },
+    "require": {
+      "monolog/monolog": "~1.8",
+		  "phpmailer/phpmailer" : "~5.2.22",
+    }
+}
